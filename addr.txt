@@ -1,1 +1,1 @@
-tcp://4.tcp.eu.ngrok.io:11398
+tcp://jobs.hidencloud.com:24699
