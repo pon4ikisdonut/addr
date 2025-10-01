@@ -1,1 +1,1 @@
-tcp://jobs.hidencloud.com:24699
+jobs.hidencloud.com:24699
